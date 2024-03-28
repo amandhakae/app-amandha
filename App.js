@@ -36,7 +36,7 @@ export default function App() {
   };
 
   const onSaveImageAsync = async () => {
-    // we will implement this later
+ 
   };
   
   const onAddSticker = () => {
